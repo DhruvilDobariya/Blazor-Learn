@@ -1,1 +1,1 @@
-# Blazor-Server-Learn
+# Blazor-Learn
