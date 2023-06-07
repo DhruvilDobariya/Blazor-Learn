@@ -1,0 +1,32 @@
+﻿@page "/databinding"
+
+<h3>DataBinding</h3>
+
+@* One way data binding *@
+<div class="my-3">
+    One way data binding
+    <input type="text" id="txtOneWayBinding" @onchange="OnInputTxtOne" />
+    <label>@inputTextOne</label>
+</div>
+
+@code {
+    public string inputTextOne = string.Empty;
+
+
+    protected void OnInputTxtOne(ChangeEventArgs e)
+    {
+        inputTextOne = e.Value.ToString();
+    }
+}
+
+@* Two way data binding *@
+<div>
+    Two way data binding
+    <input type="text" id="txtTwoWayBinding" @bind="inputTextTwo" />
+    <label>@inputTextTwo</label>
+</div>
+
+@code {
+    [Parameter]
+    public string inputTextTwo { get; set; }
+}
