@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9YQ9K1wE3XH752GsGkSVCNGgQmPOtn/SNxYC7MCNhm2hRGnRY6cQwgr9IyAdjag7OiiP/Be71GyFRXVvrFdF7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\Blazor-Learn\\code\\1.Blazor Webassembly\\ProductAPI\\ProductAPI.DAL\\ProductAPI.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhruvil.d\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.5\\microsoft.aspnetcore.jsonpatch.7.0.5.nupkg.sha512",
+    "C:\\Users\\dhruvil.d\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.5.nupkg.sha512",
+    "C:\\Users\\dhruvil.d\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\dhruvil.d\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\dhruvil.d\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\dhruvil.d\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\dhruvil.d\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

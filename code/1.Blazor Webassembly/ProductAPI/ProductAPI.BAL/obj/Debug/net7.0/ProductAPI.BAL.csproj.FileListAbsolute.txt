@@ -1,0 +1,51 @@
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.deps.json
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.AssemblyReference.cache
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.AssemblyInfoInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.AssemblyInfo.cs
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.CoreCompileInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\refint\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ref\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.DAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.Domain.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.DAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.Domain.pdb
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\Migration\code\ASP.NET Web API to ASP.NET Core Web API\Whole Migration\ProductAPIMigration\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.CopyComplete
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.deps.json
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.DAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.Domain.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.DAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.Domain.pdb
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.AssemblyReference.cache
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.AssemblyInfoInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.AssemblyInfo.cs
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.CoreCompileInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.CopyComplete
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\refint\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\dotnet\code\PostgreSql\code\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ref\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.deps.json
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.BAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.DAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.Domain.dll
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.DAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\bin\Debug\net7.0\ProductAPI.Domain.pdb
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.AssemblyReference.cache
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.AssemblyInfoInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.AssemblyInfo.cs
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.CoreCompileInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.csproj.CopyComplete
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\refint\ProductAPI.BAL.dll
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ProductAPI.BAL.pdb
+C:\Users\dhruvil.d\Learn\dotnet\Blazor-Learn\code\1.Blazor Webassembly\ProductAPI\ProductAPI.BAL\obj\Debug\net7.0\ref\ProductAPI.BAL.dll

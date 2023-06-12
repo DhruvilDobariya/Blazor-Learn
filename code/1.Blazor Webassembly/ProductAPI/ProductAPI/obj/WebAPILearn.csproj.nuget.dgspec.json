@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn\\WebAPILearn.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Models\\WebAPILearn.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Models\\WebAPILearn.Models.csproj",
+        "projectName": "WebAPILearn.Models",
+        "projectPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Models\\WebAPILearn.Models.csproj",
+        "packagesPath": "C:\\Users\\dhruvil.d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhruvil.d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0-silver.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Repository\\WebAPILearn.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Repository\\WebAPILearn.Repositories.csproj",
+        "projectName": "WebAPILearn.Repositories",
+        "projectPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Repository\\WebAPILearn.Repositories.csproj",
+        "packagesPath": "C:\\Users\\dhruvil.d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhruvil.d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Models\\WebAPILearn.Models.csproj": {
+                "projectPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Models\\WebAPILearn.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0-silver.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn\\WebAPILearn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn\\WebAPILearn.csproj",
+        "projectName": "WebAPILearn",
+        "projectPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn\\WebAPILearn.csproj",
+        "packagesPath": "C:\\Users\\dhruvil.d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhruvil.d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Models\\WebAPILearn.Models.csproj": {
+                "projectPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Models\\WebAPILearn.Models.csproj"
+              },
+              "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Repository\\WebAPILearn.Repositories.csproj": {
+                "projectPath": "C:\\Users\\dhruvil.d\\Learn\\dotnet\\dotnet\\code\\Migration\\code\\ASP.NET Web API to ASP.NET Core Web API\\Whole Migration\\Building Web API\\WebAPILearn\\WebAPILearn.Repository\\WebAPILearn.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0-silver.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

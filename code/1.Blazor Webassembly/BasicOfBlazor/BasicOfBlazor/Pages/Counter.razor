@@ -1,5 +1,6 @@
 ﻿@page "/counter"
 @using System.Diagnostics;
+@inject NavigationManager Navigation
 
 <PageTitle>Counter</PageTitle>
 
@@ -9,11 +10,15 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<InputText/>
+
 @code {
     private int currentCount = 0;
 
     private void IncrementCount(EventArgs e)
     {
         currentCount++;
+        Navigation.NavigateTo("/DataBinding");
+
     }
 }

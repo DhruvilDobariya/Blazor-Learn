@@ -1,0 +1,50 @@
+﻿@page "/Products"
+@using ProductUI.Models;
+@using System.Text.Json;
+@inject HttpClient httpClient
+
+<h3>
+    <svg xmlns="http://www.w3.org/2000/svg" width="1.75rem" height="1.75rem" fill="currentColor" class="bi bi-bag-fill me" viewBox="0 0 16 16">
+        <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5z" />
+    </svg> Product
+</h3>
+<table class="table table-hover">
+    <thead class="bg-dark text-light">
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </thead>
+    <tbody>
+        @if(_products != null)
+        {
+            @foreach (var product in _products)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Quantity</td>
+                    <td>
+                        <button class="btn btn-success">Edit</button>
+                    </td>
+                    <td>
+                        <button class="btn btn-danger">Delete</button>
+                        </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<Product> _products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        httpClient.BaseAddress = new Uri("https://localhost:44348/");
+        _products = await httpClient.GetFromJsonAsync<List<Product>>("api/Products");
+    }
+}
